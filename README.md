@@ -11,7 +11,7 @@
 <ol>
   <li>버튼에 따라 다른 리스트 보여주기</li>
   <li>사용자가 입력한 텍스트 받기</li>
-  <li>AsyncStorage사용해서 리스트 저장하기</li>
+  <li>AsyncStorage 사용해서 리스트 저장하기</li>
 </ol>
 
 <h3>제작 기간</h3>
